@@ -2,16 +2,15 @@
 
 ###
 
-Builder of AI-powered hardware & robots | M1 Electronics 
-
-Turning LLMs into embodied agents | ComfyUI contributor
-
+Builder of AI-powered hardware & robots<br>
+M1 Electronics – Université de Montpellier<br>
+Using AI to enhance human-robot interaction | ComfyUI contributor<br>
 Currently: Giving a brain to a QT robot 🤖
 
 ###
 
 ### 🚀 Main Projects
-- **[QT-brain](link)** - Fine-tuning LLMs for embodied robotics (WIP)
+- **[QT-brain](link)** – Creation of a pipeline for human-robot communication
 
 <h3 align="left">💻✨ My favorite coding tools :</h3>
 
