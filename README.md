@@ -2,7 +2,7 @@
 
 ###
 
-- Developer of AI-powered robotic systems<br>
+### Developer of AI-powered robotic systems<br>
 - M1 Electronics – Université de Montpellier 🇫🇷<br>
 - Working with generative AI to improve human–machine interaction | ComfyUI contributor<br>
 - Building personal projects to make AI more accessible to everyone<br>
