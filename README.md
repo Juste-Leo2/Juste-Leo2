@@ -2,9 +2,14 @@
 
 ###
 
-<h4 align="left">👀 I’m interested in generative artificial intelligence.<br>🌱 I’m currently studying Electronics at the University of Montpellier 🇫🇷.<br>📫 Feel free to reach me via GitHub private message.<br>😄 Pronouns:  Keep smiling!</h4>
+Builder of AI-powered hardware & robots | M1 Electronics 
+Turning LLMs into embodied agents | ComfyUI contributor
+Currently: Giving a brain to a QT robot 🤖
 
 ###
+
+### 🚀 Main Projects
+- **[QT-brain](link)** - Fine-tuning LLMs for embodied robotics (WIP)
 
 <h3 align="left">💻✨ My favorite coding tools :</h3>
 
