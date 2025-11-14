@@ -3,7 +3,9 @@
 ###
 
 Builder of AI-powered hardware & robots | M1 Electronics 
+
 Turning LLMs into embodied agents | ComfyUI contributor
+
 Currently: Giving a brain to a QT robot 🤖
 
 ###
