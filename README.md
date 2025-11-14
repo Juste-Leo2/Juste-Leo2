@@ -2,15 +2,16 @@
 
 ###
 
-Builder of AI-powered hardware & robots<br>
-M1 Electronics – Université de Montpellier<br>
-Using AI to enhance human-robot interaction | ComfyUI contributor<br>
+Developer of AI-powered robotic systems<br>
+M1 Electronics – Université de Montpellier 🇫🇷<br>
+Working with generative AI to improve human–machine interaction | ComfyUI contributor<br>
+Building personal projects to make AI more accessible to everyone<br>
 Currently: Giving a brain to a QT robot 🤖
 
 ###
 
 ### 🚀 Main Projects
-- **[QT-brain](link)** – Creation of a pipeline for human-robot communication
+- **[QT-brain](https://github.com/Juste-Leo2/QTRobot-Brain)** – Creation of a pipeline for human-robot communication
 
 <h3 align="left">💻✨ My favorite coding tools :</h3>
 
