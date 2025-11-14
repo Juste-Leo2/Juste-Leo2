@@ -11,7 +11,7 @@
 ###
 
 ### 🚀 Main Projects
-- **[QT-brain](https://github.com/Juste-Leo2/QTRobot-Brain)** – Creation of a pipeline for human-robot communication
+- **[QTRobot-Brain](https://github.com/Juste-Leo2/QTRobot-Brain)** – Creation of a pipeline for human-robot communication
 
 <h3 align="left">💻✨ My favorite coding tools :</h3>
 
