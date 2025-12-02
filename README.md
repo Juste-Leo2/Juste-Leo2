@@ -35,10 +35,8 @@
 
 ###
 <div align="left">
-  <!-- Stats générales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Juste-Leo2&show_icons=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  
-  <!-- J'ai retiré top-langs pour l'instant car il nécessite du code public pour s'afficher -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Juste-Leo2&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juste-Leo2&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
