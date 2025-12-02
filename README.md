@@ -30,13 +30,3 @@
 </div>
 
 ###
-
-<h3 align="left">📈 My stats :</h3>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juste-Leo2&show_icons=true&theme=dracula&v=2" height="165" alt="stats graph" />
-  <img width="5" height="1" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juste-Leo2&layout=compact&langs_count=6&theme=dracula&hide_border=false&v=2" height="165" alt="languages graph" />
-</div>
-
-###
