@@ -41,13 +41,3 @@
 </div>
 
 ###
-
-<h3 align="left">💻 Appreciate you checking out my work 😊</h3>
-
-###
-
-<div align="left">
-  <img src="https://count.getloli.com/@:Juste-Leo2?theme=minecraft&padding=7&scale=0.5&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
-###
