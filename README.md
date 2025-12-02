@@ -33,10 +33,19 @@
 
 <h3 align="left">📈 My stats :</h3>
 
-###
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juste-Leo2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=1&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <!-- Carte des Stats Globales -->
+  <a href="https://github.com/Juste-Leo2">
+    <img src="https://github-readme-stats.vercel.app/api?username=Juste-Leo2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="165" alt="stats graph" />
+  </a>
+  
+  <!-- Espaceur invisible pour séparer les cartes -->
+  <img width="5" height="1" />
+
+  <!-- Carte des Langages (Corrigée pour afficher tout ton stack) -->
+  <a href="https://github.com/Juste-Leo2">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juste-Leo2&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="165" alt="languages graph" />
+  </a>
 </div>
 
 ###
