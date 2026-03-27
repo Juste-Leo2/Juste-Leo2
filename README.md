@@ -6,12 +6,13 @@
 - M1 Electronics – Université de Montpellier 🇫🇷<br>
 - Working with generative AI to improve human–machine interaction | ComfyUI contributor<br>
 - Building personal projects to make AI more accessible to everyone<br>
-- Currently: Giving a brain to a QT robot 🤖
+- Currently: Working with the QT robot 🤖
 
 ###
 
 ### 🚀 Main Projects
-- **[QTRobot-Brain](https://github.com/Juste-Leo2/QTRobot-Brain)** – Creation of a pipeline for human-robot communication
+- **[QTRobot-Interaction](https://github.com/Juste-Leo2/QTRobot-Interaction)** - Creation of a pipeline for human-robot interaction
+- **[QT-Touch](https://github.com/Juste-Leo2/QT-Touch)** - Machine Learning on the QT Jacket
 
 <h3 align="left">💻✨ My favorite coding tools :</h3>
 
