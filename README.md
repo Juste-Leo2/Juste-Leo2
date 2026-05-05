@@ -3,16 +3,18 @@
 ###
 
 ### Developer of AI-powered robotic systems<br>
-- M1 Electronics – Université de Montpellier 🇫🇷<br>
-- Working with generative AI to improve human–machine interaction | ComfyUI contributor<br>
+- M1 Electronics – Université de Montpellier 🇫🇷 <br>
+- Working with generative AI to improve human–machine interaction <br>
+- **Contributions**: Developing the ComfyUI ecosystem, contributing to llama.cpp, and building open-source tools<br>
 - Building personal projects to make AI more accessible to everyone<br>
 - Currently: Working with the QT robot 🤖
+
 
 ###
 
 ### 🚀 Main Projects
 - **[QTRobot-Interaction](https://github.com/Juste-Leo2/QTRobot-Interaction)** - Creation of a pipeline for human-robot interaction
-- **[QT-Touch](https://github.com/Juste-Leo2/QT-Touch)** - Machine Learning on the QT Jacket
+- **[QT-Jacket](https://github.com/Juste-Leo2/QT-jacket)** - Machine Learning on the QT Jacket (Successor to [QT-Touch](https://github.com/Juste-Leo2/QT-Touch) with more sensors)
 
 <h3 align="left">💻✨ My favorite coding tools :</h3>
 
