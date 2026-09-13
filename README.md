@@ -15,7 +15,7 @@
 - **Hardware Demo**: [Real-time inference (MNIST W4A8)](https://github.com/Juste-Leo2/mnist-w4a8-spinal-fpga) on a Tang Primer 20K board with a web interface.
 
 <details>
-  <summary>📅 <b>View the development roadmap (August 2026)</b></summary>
+  <summary>📅 <b>View the development roadmap (August & September 2026)</b></summary>
   <ul>
     <li><b>Aug 3</b>: Project kick-off.</li>
     <li><b>Aug 5</b>: Initialization of the first self-hosted CI.</li>
@@ -24,6 +24,9 @@
     <li><b>Aug 19</b>: Implementation of the Attention operation.</li>
     <li><b>Aug 24</b>: First MNIST BF16 test successfully validated with Verilator.</li>
     <li><b>Aug 30</b>: Milestone: Functional hardware inference of MNIST in W4A8 precision.</li>
+    <li><b>Sep 5</b>: Addition of universal tests (automatic testbench generation).</li>
+    <li><b>Sep 9</b>: Added `build` and `flash` commands to automate the toolchain from code to silicon.</li>
+    <li><b>Sep 12</b>: Release of the first precompiled binaries for easy usage of SpinalML.</li>
   </ul>
 </details>
 
